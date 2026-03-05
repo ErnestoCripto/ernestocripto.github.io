@@ -6,7 +6,7 @@ code = "CRIPTO01"
 issuer = "GAVOA6QBBSDKH3NMD2LQIJBXBT3CZPG4CHFGMNDZ4PJ63T7XVK5VKGF6"
 display_decimals = 0
 name = "Talk Cripto"
-image = "https://raw.githubusercontent.com/ErnestoCripto/SkillGraph/main/assets/CRIPTO01.png"
+image = "https://raw.githubusercontent.com/ernestocripto/skillgraph/main/assets/CRIPTO01.png"
 desc = "Plática Cripto en la Universidad"
 
 [[CURRENCIES]]
@@ -14,7 +14,7 @@ code = "MKT101"
 issuer = "GAVOA6QBBSDKH3NMD2LQIJBXBT3CZPG4CHFGMNDZ4PJ63T7XVK5VKGF6"
 display_decimals = 0
 name = "Fundamentos de Marketing"
-image = "https://raw.githubusercontent.com/ErnestoCripto/SkillGraph/main/assets/MKT101.png"
+image = "https://raw.githubusercontent.com/ernestocripto/skillgraph/main/assets/MKT101.png"
 desc = "Introducción al Marketing Web3"
 
 [[CURRENCIES]]
@@ -22,7 +22,7 @@ code = "STELLAR101"
 issuer = "GAVOA6QBBSDKH3NMD2LQIJBXBT3CZPG4CHFGMNDZ4PJ63T7XVK5VKGF6"
 display_decimals = 0
 name = "Stellar Blockchain"
-image = "https://raw.githubusercontent.com/ErnestoCripto/SkillGraph/main/assets/STELLAR.png"
+image = "https://raw.githubusercontent.com/ernestocripto/skillgraph/main/assets/STELLAR.png"
 desc = "Curso básico de Stellar"
 
 [[CURRENCIES]]
@@ -30,5 +30,5 @@ code = "MKT102"
 issuer = "GAVOA6QBBSDKH3NMD2LQIJBXBT3CZPG4CHFGMNDZ4PJ63T7XVK5VKGF6"
 display_decimals = 0
 name = "Growth Marketing"
-image = "https://raw.githubusercontent.com/ErnestoCripto/SkillGraph/main/assets/MKT102.png"
+image = "https://raw.githubusercontent.com/ernestocripto/skillgraph/main/assets/MKT102.png"
 desc = "Estrategias de Growth Marketing en Web3"
